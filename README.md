@@ -42,7 +42,7 @@ This project explores **covert post-exploitation techniques** and proposes a **m
 
 ## 👤 Author
 
-**Okore Joel Chidike**
+**Okore Joel Chidike**, 
 Security and Network Engineering (SNE), M24-SNE-01
 Innopolis University
 
