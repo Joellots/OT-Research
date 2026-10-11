@@ -5,7 +5,7 @@
 
 This project explores **covert post-exploitation techniques** and proposes a **machine learning-based approach** for detecting **Covert Timing Channels (CTCs)**. It combines offensive and defensive cybersecurity practices in a practical, research-driven setting.
 
-## 🔧 Project Structure
+## Project Structure
 
 ### 1. **Post-Exploitation & Covert C2 Channel**
 
@@ -25,7 +25,7 @@ This project explores **covert post-exploitation techniques** and proposes a **m
 * **ANN and SVM** models failed to detect covert traffic due to class imbalance (only 3 covert samples in test set).
 
 
-## 📂  Contents
+##  Contents
 
 * Covert C2 Setup with VSAgent – https://github.com/Joellots/VSAgent
 * `extract_iats` – Script for extracting Inter-Arrival Time (IAT) from Packet Captures.
@@ -36,11 +36,11 @@ This project explores **covert post-exploitation techniques** and proposes a **m
 * `models/` – Trained Machine Learning Models.
 
   
-## 🛡️ Tools Used
+## Tools Used
 
 * **Metasploit**, **Nmap**, **Wireshark**, **Python**, **Scikit-learn**, **Matplotlib**, **NumPy**, **Pandas**
 
-## 👤 Author
+## Author
 
 **Okore Joel Chidike**, 
 Security and Network Engineering (SNE), M24-SNE-01
